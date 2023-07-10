@@ -1,0 +1,30 @@
+.pembungkus{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    width: 500px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .card h3 {
+    margin: 0;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 5px;
+  }
+
+  .card p {
+    margin-top: 5px;
+  }
+
+  .form-group .btn{
+    font-size: 15px;
+  }
